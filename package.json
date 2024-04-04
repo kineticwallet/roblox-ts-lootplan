@@ -1,8 +1,8 @@
 {
-	"name": "@rbxts/roblox-ts-package-template",
-	"version": "1.0.0",
+	"name": "@rbxts/lootplan",
+	"version": "1.0.0-ts.0",
 	"main": "dist/init.lua",
-	"keywords": [],
+	"keywords": ["lootplan", "random", "rng", "weight", "chance"],
 	"author": "kineticwallet",
 	"license": "MIT",
 	"types": "dist/index.d.ts",
